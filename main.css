@@ -12,7 +12,9 @@
 
 .protItems{
         padding: 40px;
-        margin: 30px 350px;
+        margin: 30px auto;
+        width: 60%;
+
 }
 
 
